@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitCoroutine</string>
+    <string name="type_to_search">Type to search</string>
+</resources>
